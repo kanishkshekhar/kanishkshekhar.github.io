@@ -5,7 +5,7 @@
 ### Highlighted Projects 
 
 [Visualizing Inequalities in Life Expectancy](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LifeExp.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
