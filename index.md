@@ -19,7 +19,7 @@
 
 ### Certifications
 
-- Commcare Application Building issued by Dimagi (https://academy.dimagi.com/certificates/71f5ce1877cc4b22a59bcd70d0b7c92c)
+- <a href="https://academy.dimagi.com/certificates/71f5ce1877cc4b22a59bcd70d0b7c92c">Commcare Application Building issued by Dimagi</a>
 - Data Science: Visualization (using ggplot2 package in R) issued by HarvardX (https://courses.edx.org/certificates/41972a311eeb4a85a222adaf15a2b00b)
 - Statistical Modeling in R issued by DataCamp (https://www.datacamp.com/statement-of-accomplishment/course/0ecbd5ab632d22466bef8884971672b3b9e8c4b3)
 - Linear Algebra for Data Science in R issued by DataCamp (https://www.datacamp.com/statement-of-accomplishment/course/0ed82b87c75601dd7d0beb4e895492ccd9c4a000)
